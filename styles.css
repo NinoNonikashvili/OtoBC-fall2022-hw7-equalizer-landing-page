@@ -180,10 +180,9 @@
     display: flex;
     justify-content: space-between;
   }
-
-.icon-twitter:hover{
-  fill:red;
-}
+  .footer-icons > *:hover{
+    filter: invert(62%) sepia(11%) saturate(5935%) hue-rotate(324deg) brightness(98%) contrast(100%);
+  }
 
 }
 
