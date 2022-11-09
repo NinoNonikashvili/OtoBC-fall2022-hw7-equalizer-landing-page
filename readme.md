@@ -37,7 +37,7 @@
 
 ### Links
 
-- Live Site URL: https://ninononikashvili.github.io/OtoBC-fall2022-hw3-order-summary-comp/
+- Live Site URL: https://github.com/NinoNonikashvili/OtoBC-fall2022-hw7-equalizer-landing-page
 
 
 ### Built with
